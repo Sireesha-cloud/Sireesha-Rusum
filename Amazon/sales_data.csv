@@ -1,0 +1,6 @@
+TransactionID,Date,Customer,Product,Quantity,Price
+1001,2024-05-01,John Doe,Keyboard,2,45.99
+1002,2024-05-02,Jane Smith,Mouse,1,25.5
+1003,2024-05-02,John Doe,Monitor,1,155.0
+1004,2024-05-03,Emily Davis,Laptop,1,699.99
+1005,2024-05-04,Michael Brown,Keyboard,1,45.99
